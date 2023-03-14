@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "jest": "^29.5.0",
+    "jest-light-runner": "^0.4.1"
+  }
+}
